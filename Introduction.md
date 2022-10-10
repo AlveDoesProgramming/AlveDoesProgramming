@@ -1,4 +1,4 @@
-- 👋Hi, I’m @AlveDoesProgramming
+-  Hi, I’m @AlveDoesProgramming
 -  I’m interested in programming
 -  I’m currently learning python, html, css and java
 
