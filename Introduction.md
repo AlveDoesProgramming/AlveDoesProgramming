@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlveDoesProgramming
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python, html, css and java
+- 👋Hi, I’m @AlveDoesProgramming
+-  I’m interested in programming
+-  I’m currently learning python, html, css and java
 
 <!---
 AlveDoesProgramming/AlveDoesProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
